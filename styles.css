@@ -1,0 +1,194 @@
+@media(max-width:1028px) {
+    .title-img {
+        position: static;
+        transform: rotate(0);
+    }
+    #title {
+        text-align: center;
+    }
+}
+
+#title {
+    background-color: #ff4c68;
+}
+
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+
+#footer {
+    text-align: center;
+    background-color: #fff;
+    padding: 5% 5%
+}
+
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 5%
+}
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+#press {
+    text-align: center;
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+
+body {
+    font-family: 'Montserrat-black-600';
+}
+
+h1 {
+    font-family: 'Montserrat-black-900';
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+h2 {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.h1 {
+    font-family: "Montserrat-Black";
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 10px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat-light";
+}
+
+.download-botton {
+    margin: 5% 3% 5% 0;
+}
+
+.title-img {
+    width: 21%;
+    transform: rotate(25deg);
+    position: absolute;
+    left: 55%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    padding-bottom: 1rem;
+    color: #ef8172
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+.img-dog {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.pricing-col {
+    padding: 3% 2%;
+}
+
+.h3f {
+    padding: 3% 10%;
+    font-family: "Montserrat-black-900";
+    font-size: 5rem;
+    line-height: 1.5;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.brands-cont {
+    padding: 2% 1.09%;
+}
+
+.twitter:hover {
+    color: #1DA1F2;
+}
+
+.facebook-f:hover {
+    color: #4267B2;
+}
+
+.inst:hover {
+    color: #F77737;
+}
+
+.gmail:hover {
+    color: #DB4437;
+}
+
+.dnd-bt {
+    margin: 10px;
+}
+
+.social-mid {
+    color: black;
+}
+
+.card-pay {
+    background-color: #ef8172;
+    border-color: #ef8172;
+}
